@@ -1,0 +1,20 @@
+{
+  "name": "tutorial-website",
+  "version": "1.0.0",
+  "description": "this is a tutorial website for java course.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leegould119/tutorial-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leegould119/tutorial-website/issues"
+  },
+  "homepage": "https://github.com/leegould119/tutorial-website#readme"
+}
