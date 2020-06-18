@@ -9,8 +9,7 @@ const math = 2 - 2;
 
 const test = { type: "this is an object" };
 const test1 = 2.2 + 1;
- const math = (2-2); 
+const math = 2 - 2;
 
-
- const test = { type: "jim made this change"};
- const math = (2-6); 
+const test = { type: "jim made this change" };
+const math = 2 - 6;
